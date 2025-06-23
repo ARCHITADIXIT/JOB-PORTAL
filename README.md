@@ -31,27 +31,22 @@ The Job Portal project aims to create a robust and user-friendly platform for jo
   - **Login and Registration for Recruiters**: Enables recruiters to create accounts, log in, and access recruiter-specific functionalities.
 ### Login:
      
-  ![User Login](https://github.com/hey-its-d2t2/Job-Portal/assets/63626210/b1d39942-b98b-48a5-948f-9e17b7a4eea8)
 
 ### Register:
   
-  ![Register user](https://github.com/hey-its-d2t2/Job-Portal/assets/63626210/66ebcb03-8ad1-41ff-a52b-d52575c9a961)
 
     
 - ## **Recruiter Profile Management**:
     - **Profile Setup**: Allows recruiters to set up and update their profiles with relevant information.
 
-  ![Recruiter Profile](https://github.com/hey-its-d2t2/Job-Portal/assets/63626210/bedf73dd-1fa3-42e3-99bc-7644309c81af)
 
 - ## **Job Posting**:
     - **Add New Job**: Enables recruiters to post new job openings with detailed job descriptions, requirements, and other relevant
 
-   ![Job Post](https://github.com/hey-its-d2t2/Job-Portal/assets/63626210/25e752a0-06a0-45d9-9150-cc42297f9f17)
 
 - ## Recruiter Dashboard:
   - **View Job Listings**: Allows recruiters to view all their posted jobs, along with relevant details such as the number of applications, job status, and the ability to edit or delete postings.
   
-  ![Rec Dashboard](https://github.com/hey-its-d2t2/Job-Portal/assets/63626210/75da64de-9444-4a06-a234-c66686b07ede)
 
 # Planned Functionalities:
 
